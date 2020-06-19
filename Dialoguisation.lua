@@ -28,4 +28,4 @@ function validation(subs, sel)
     return #sel==2
 end
 
-aegisub.register_macro(script_name,script_description, main, validation)
+aegisub.register_macro(script_name, script_description, main, validation)

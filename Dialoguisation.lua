@@ -1,9 +1,9 @@
 script_name = "Dialoguisation"
 script_description = "Sélectionnez deux lignes pour en faire une seule sous forme de dialogue"
 script_version = "0.2"
-script_author="Afaren"
+script_author = "Afaren"
 
-function main(subs, sel, styles)
+function main(subs, sel)
     for k, i in ipairs(sel) do
         if k == 1 then
             ligne1 = subs[i]

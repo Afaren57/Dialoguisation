@@ -1,5 +1,5 @@
 # Dialoguisation
-Script aegisub pour joindre 2 lignes sélectionnées sous la forme d'une seule en dialogue (avec tirets semi-cadratins «–»).
+Script aegisub pour joindre 2 lignes sélectionnées sous la forme d'une seule en dialogue (avec tirets semi-cadratins « – »).
 
 English version :
 

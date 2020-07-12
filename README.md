@@ -5,7 +5,7 @@ Mises à jour futures (si j'arrive à trouver comment le faire) :
 - Mettre automatiquement les italiques
 - Mettre la sélection de ligne uniquement sur la ligne jointe
 
-English version :
+## English version :
 
 Aegisub script to join together 2 selected lines into a single one as a dialogue (with en dash "–").
 

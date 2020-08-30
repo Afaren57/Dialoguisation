@@ -1,6 +1,6 @@
 script_name = "Dialoguisation"
 script_description = "Sélectionnez deux lignes pour en faire une seule sous forme de dialogue"
-script_version = "0.2"
+script_version = "0.3"
 script_author = "Afaren"
 
 function main(subs, sel)
@@ -22,6 +22,8 @@ function main(subs, sel)
     end
     subs[num1] = ligne1
     subs.delete(num2)
+    table.remove(sel, 2)
+    return sel
 end
 
 function validation(subs, sel)
